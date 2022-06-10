@@ -1,0 +1,24 @@
+.navBar {
+background: rgb(246,211,238);
+background: linear-gradient(90deg, rgba(246,211,238,1) 0%, rgba(245,194,229,1) 0%, rgba(245,223,239,1) 0%, rgba(255,252,254,1) 0%, rgba(238,90,175,1) 100%, rgba(245,74,155,1) 100%);
+text-align: center;
+font-size: xx-large;
+font-family: sans-serif;
+}
+
+.buttonNav {
+    background: rgb(246,211,238);
+    background: linear-gradient(90deg, rgba(246,211,238,1) 0%, rgba(245,194,229,1) 0%, rgba(245,223,239,1) 0%, rgba(255,252,254,1) 0%, rgba(238,90,175,1) 100%, rgba(245,74,155,1) 100%);
+    border-radius: 20px;
+    height: 5vh;
+    width: 15vh;
+    margin: 30px;
+}
+.buttonLogin {
+    background: rgb(246,211,238);
+    background: linear-gradient(90deg, rgba(246,211,238,1) 0%, rgba(245,194,229,1) 0%, rgba(245,223,239,1) 0%, rgba(255,252,254,1) 0%, rgba(238,90,175,1) 100%, rgba(245,74,155,1) 100%);
+    border-radius: 20px;
+    height: 5vh;
+    width: 15vh;
+}
+
