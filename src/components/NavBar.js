@@ -11,6 +11,8 @@ function NavBar() {
       <button className='buttonNav'> ACCESORIOS </button>
       <button className='buttonNav'> CONTACTO </button> 
 
+      
+
   </div>
   );
 };

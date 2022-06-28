@@ -1,3 +1,4 @@
+import React from 'react';
 import './Carrito.css';
 
 const Carrito = () => {
@@ -7,4 +8,8 @@ const Carrito = () => {
         </div>
     );
  };
+
+
+
+
  export default Carrito;

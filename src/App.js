@@ -1,8 +1,10 @@
 import "./App.css";
+import React from 'react';
 import Carrito from "./components/Carrito";
 import Catalogo from "./components/Catalogo";
 import Desafio from "./components/desafio";
 import NavBar from "./components/NavBar";
+
 
 const App = () => {
 
@@ -11,6 +13,8 @@ const nameStyle = {
   color: "white",
   
 };
+
+
 
 const myFunction = () => {
 console.log ("Se hizo click en login")
@@ -43,3 +47,5 @@ console.log ("Se hizo click en login")
 
 
 export default App;
+
+

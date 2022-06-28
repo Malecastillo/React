@@ -2,7 +2,7 @@ import React from 'react';
 import './Catalogo.css';
 
 
-{/*ver por que se usa esto de extends/react.component/etc., porque lo copie*/}
+/*ver por que se usa esto de extends/react.component/etc., porque lo copie*/
 class Catalogo extends React.Component { 
 
     render(){
